@@ -1,3 +1,3 @@
 # pygmalion
 
-The original pygmalion but now the prompt shows the VirtualEnv name
+Adjusted pygmalion without git dependency and adjusted colouring.
